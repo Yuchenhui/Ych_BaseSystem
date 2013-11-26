@@ -9,6 +9,6 @@ namespace Beisen.CollegeCareer.Dev
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-        }
+        } 
     }
 }
